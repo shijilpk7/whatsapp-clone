@@ -9,7 +9,7 @@ class ChatModel {
 
 List<ChatModel> dummyData = [
   new ChatModel(
-      name: "Pawan Kumar",
+      name: "shijil.m",
       message: "Hey Flutter, You are so amazing !",
       time: "15:30",
       avatarUrl:
