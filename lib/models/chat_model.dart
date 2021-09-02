@@ -15,13 +15,13 @@ List<ChatModel> dummyData = [
       avatarUrl:
           "http://www.usanetwork.com/sites/usanetwork/files/styles/629x720/public/suits_cast_harvey.jpg?itok=fpTOeeBb"),
   new ChatModel(
-      name: "Harvey Spectre",
+      name: "Joey Tribbiani",
       message: "Hey I have hacked whatsapp!",
       time: "17:30",
       avatarUrl:
           "http://www.usanetwork.com/sites/usanetwork/files/styles/629x720/public/suits_cast_harvey.jpg?itok=fpTOeeBb"),
   new ChatModel(
-      name: "Mike Ross",
+      name: "Ross",
       message: "Wassup !",
       time: "5:00",
       avatarUrl:
@@ -33,13 +33,13 @@ List<ChatModel> dummyData = [
       avatarUrl:
           "http://www.usanetwork.com/sites/usanetwork/files/styles/629x720/public/suits_cast_harvey.jpg?itok=fpTOeeBb"),
   new ChatModel(
-      name: "Barry Allen",
+      name: "Pheobe Buffay",
       message: "I'm the fastest man alive!",
       time: "12:30",
       avatarUrl:
           "http://www.usanetwork.com/sites/usanetwork/files/styles/629x720/public/suits_cast_harvey.jpg?itok=fpTOeeBb"),
   new ChatModel(
-      name: "Joe West",
+      name: "Gunther",
       message: "Hey Flutter, You are so cool !",
       time: "15:30",
       avatarUrl:
